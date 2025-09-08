@@ -28,4 +28,4 @@ This includes updating included libraries.
     1. Question 3: Started 13:42. Ended 13:45.
     1. Question 4: Started 13:45. Ended 14:49.
         1. Testing in LinqPad: 14:19
-        1. Glad I validated. COmpleted 14:48
+        1. Glad I validated. Completed 14:48
